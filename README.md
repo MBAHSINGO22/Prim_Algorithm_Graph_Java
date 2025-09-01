@@ -47,4 +47,4 @@ Total weight is 46
 
 ## 👨‍💻 Pengembang
 MBAHSINGO22  
-🔗 GitHub
+🔗 [GitHub](https://github.com/MBAHSINGO22)
